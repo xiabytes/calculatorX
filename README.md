@@ -33,6 +33,7 @@ How to Use
    ```bash
    git clone https://github.com/your-username/calculator-x.git
    ```
+
 ````
 
 2. Open the folder:
@@ -140,3 +141,5 @@ This project is free for everyone to use. It’s licensed under the MIT License.
 ---
 
 Thanks for checking out Calculator X. Happy coding!
+````
+
