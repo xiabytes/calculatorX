@@ -137,4 +137,3 @@ This project is free for everyone to use. It’s licensed under the MIT License.
 ---
 
 Thanks for checking out Calculator X. Happy coding!
-```
