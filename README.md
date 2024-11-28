@@ -1,17 +1,8 @@
-Here’s a **personalized README.md** to match your style and tone:
-
----
-
-### **README.md**
-
-````markdown
-# Calculator X
-
 Hi there! Welcome to **Calculator X**, a modern, minimalist calculator I built using HTML, CSS, and JavaScript. It’s inspired by the iPhone calculator, with essential features like addition, subtraction, percentage calculation, and more! This is a perfect project for anyone learning JavaScript or looking for a handy tool.
 
 ---
 
-## Features
+Features
 
 - **All Basic Math**: Addition, subtraction, multiplication, and division.
 - **Percentage Function**: Quickly find percentages like `50% = 0.5`.
@@ -22,13 +13,13 @@ Hi there! Welcome to **Calculator X**, a modern, minimalist calculator I built u
 
 ---
 
-## Why I Made This
+Why I Made This
 
 I created Calculator X to enhance my JavaScript skills and design something practical. It’s lightweight, easy to use, and looks great, whether you’re using it for quick calculations or just admiring the design!
 
 ---
 
-## Technologies I Used
+Technologies I Used
 
 - **HTML5**: For building the structure of the calculator.
 - **CSS3**: To make it visually appealing and responsive.
@@ -36,9 +27,9 @@ I created Calculator X to enhance my JavaScript skills and design something prac
 
 ---
 
-## How to Use
+How to Use
 
-1. **Clone this project** to your computer:
+1. Clone this project\*\* to your computer:
    ```bash
    git clone https://github.com/your-username/calculator-x.git
    ```
